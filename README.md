@@ -2,7 +2,7 @@
 
 **Senior DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Engineer**
 
-📍 Windsor, ON, Canada | 📧 mvarmak0291@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-varma-konduru)
+📍 Windsor, ON, Canada | 📧 mvarma0293@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-varma-konduru)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Senior DevOps Engineer and Site Reliability Engineer with 6+ years of hands-on experience designing, building, and deploying large-scale AWS-based distributed systems. Deep expertise in Kubernetes, Terraform, CI/CD automation, and cloud infrastructure reliability engineering.
 
-Proven track record delivering measurable impact: **130+ CI/CD pipeline migrations**, **45% reduction in MTTR**, and **40% improvement in deployment frequency**. Specialized in building high-availability, fault-tolerant systems with strong focus on observability, automation, and SRE best practices.
+Proven track record delivering measurable impact: **150+ CI/CD pipeline migrations**, **45% reduction in MTTR**, and **40% improvement in deployment frequency**. Specialized in building high-availability, fault-tolerant systems with strong focus on observability, automation, and SRE best practices.
 
 ---
 
@@ -53,7 +53,7 @@ Proven track record delivering measurable impact: **130+ CI/CD pipeline migratio
 **SurveyMonkey** | Ottawa, ON | *Mar 2022 – Present*
 
 - Designed and deployed highly available Kubernetes infrastructure on AWS EKS supporting mission-critical production workloads
-- Led CI/CD modernization initiative, migrating 130+ pipelines and improving deployment frequency by 40%
+- Led CI/CD modernization initiative, migrating 150+ pipelines and improving deployment frequency by 40%
 - Implemented comprehensive observability solution using Prometheus and Grafana, reducing MTTR by 45%
 - Established SRE practices including on-call rotations, runbook development, and incident response automation
 - Optimized cloud infrastructure costs through resource right-sizing and reserved instance strategies
