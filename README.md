@@ -10,7 +10,7 @@
 
 Senior DevOps Engineer and Site Reliability Engineer with 6+ years of hands-on experience designing, building, and deploying large-scale AWS-based distributed systems. Deep expertise in Kubernetes, Terraform, CI/CD automation, and cloud infrastructure reliability engineering.
 
-Proven track record delivering measurable impact: **150+ CI/CD pipeline migrations**, **45% reduction in MTTR**, and **40% improvement in deployment frequency**. Specialized in building high-availability, fault-tolerant systems with strong focus on observability, automation, and SRE best practices.
+Proven track record delivering measurable impact: **150+ Jenkins pipeline migrations to GitHub Actions**, **45% reduction in MTTR**, and **40% improvement in deployment frequency**. Specialized in building high-availability, fault-tolerant systems with strong focus on observability, automation, and SRE best practices.
 
 ---
 
@@ -29,7 +29,7 @@ Proven track record delivering measurable impact: **150+ CI/CD pipeline migratio
 ### 🔄 CI/CD & Automation
 - **Platforms:** GitHub Actions, Jenkins, GitLab CI/CD, Azure DevOps, AWS CodePipeline
 - **Tools:** CodeBuild, CodeDeploy, Terraform, Terragrunt, Atlantis
-- **Impact:** 130+ pipeline migrations, 40% deployment frequency improvement, 45% MTTR reduction
+- **Impact:** 150+ pipeline migrations, 40% deployment frequency improvement, 45% MTTR reduction
 
 ### 📊 Observability & Monitoring
 - **Monitoring Stack:** Prometheus, Grafana, CloudWatch
@@ -53,7 +53,7 @@ Proven track record delivering measurable impact: **150+ CI/CD pipeline migratio
 **SurveyMonkey** | Ottawa, ON | *Mar 2022 – Present*
 
 - Designed and deployed highly available Kubernetes infrastructure on AWS EKS supporting mission-critical production workloads
-- Led CI/CD modernization initiative, migrating 150+ pipelines and improving deployment frequency by 40%
+- Led CI/CD modernization initiative, migrating 150+ Jenkins pipelines to GitHub Actions and improving deployment frequency by 40%
 - Implemented comprehensive observability solution using Prometheus and Grafana, reducing MTTR by 45%
 - Established SRE practices including on-call rotations, runbook development, and incident response automation
 - Optimized cloud infrastructure costs through resource right-sizing and reserved instance strategies
@@ -63,7 +63,7 @@ Proven track record delivering measurable impact: **150+ CI/CD pipeline migratio
 
 ## Key Achievements
 
-✅ **130+ CI/CD Pipeline Migrations** – Jenkins/GitLab CI/CD to unified GitHub Actions platform  
+✅ **150+ Jenkins Pipeline Migrations** – Jenkins to unified GitHub Actions platform  
 ✅ **45% MTTR Reduction** – Prometheus + Grafana observability implementation  
 ✅ **40% Deployment Frequency Improvement** – CI/CD optimization and automation  
 ✅ **High Availability Infrastructure** – Multi-environment EKS with fault tolerance  
