@@ -72,20 +72,6 @@ Proven track record delivering measurable impact: **150+ CI/CD pipeline migratio
 
 ---
 
-## Technical Stack
-
-| Category | Skills |
-|----------|--------|
-| **Cloud Platforms** | AWS (EKS, EC2, ECS, Lambda, RDS, VPC, IAM, CloudWatch) |
-| **Container & Orchestration** | Kubernetes (EKS, GKE, AKS), Docker, Helm, ArgoCD |
-| **CI/CD & DevOps** | GitHub Actions, Jenkins, GitLab CI/CD, CodePipeline, CodeBuild |
-| **Infrastructure as Code** | Terraform, Terragrunt, CloudFormation, Helm Charts, Atlantis |
-| **Monitoring & Observability** | Prometheus, Grafana, CloudWatch, Kinesis, logging, tracing |
-| **Security & Secrets** | IAM, Kubernetes RBAC, Vault, Secrets Manager, DevSecOps |
-| **Programming** | Python, Bash, PowerShell, YAML |
-
----
-
 ## Areas of Expertise
 
 ### Infrastructure & Cloud Engineering
